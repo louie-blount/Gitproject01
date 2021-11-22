@@ -3,4 +3,9 @@ bbbbbbbb
 cccccccc
 UUUUUUUUUUU
 
+<<<<<<< HEAD
 dddddddd add by  master
+=======
+dddddddd add by hot_fix
+
+>>>>>>> hot_fix
